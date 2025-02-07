@@ -65,5 +65,4 @@ pipeline {
             echo 'Deployed'
         }
     }
-
 }

@@ -11,7 +11,7 @@
 }
 
 body{
-    background: rgba(0, 0, 0, 0.9) url('food.jpg') center center fixed;
+    background: rgba(0, 0, 0, 0.9) url('https://www.google.com/imgres?q=food&imgurl=https%3A%2F%2Fwww.jaypeehotels.com%2Fblog%2Fwp-content%2Fuploads%2F2024%2F07%2FBlog-3-scaled.jpg&imgrefurl=https%3A%2F%2Fwww.jaypeehotels.com%2Fblog%2Fmust-try-famous-food-in-mussoorie-iconic-foods-for-your-next-trip&docid=__Gbvy-Ye_QxIM&tbnid=8s_3LdO2U9-EiM&vet=12ahUKEwj7rK2A9LCLAxWana8BHW7ZHKkQM3oECEoQAA..i&w=2560&h=1707&hcb=2&ved=2ahUKEwj7rK2A9LCLAxWana8BHW7ZHKkQM3oECEoQAA) center center fixed;
     background-size: cover;
     background-blend-mode: darken;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
