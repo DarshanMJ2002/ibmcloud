@@ -12,7 +12,7 @@
 }
 
 body{
-    background: rgba(0, 0, 0, 0.7) url('food.jpg') center center fixed;
+    background: rgba(0, 0, 0, 0.9) url('food.jpg') center center fixed;
     background-size: cover;
     background-blend-mode: darken;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
